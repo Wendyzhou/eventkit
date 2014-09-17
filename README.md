@@ -1,3 +1,5 @@
+**Note!** There is also a [Rails port of EventKit](https://github.com/sendgrid/eventkit-rails). EventKit-Rails can be deployed with two clicks using a free [Heroku account](http://heroku.com).
+
 # SendGrid Event Webhook Starter Kit
 
 The SendGrid Event Webhook Starter Kit (or "Event Kit") is an open source project for quickly setting up your web server with an endpoint for SendGrid's Event Webhook and provides an interface to view and search your stored events.
